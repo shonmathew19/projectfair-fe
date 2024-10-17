@@ -1,3 +1,3 @@
 
-export const BASE_URL = 'https://projectfair-be-qvut.onrender.com';
+export const BASE_URL = 'https://projectfair-be-coqy.onrender.com';
 
